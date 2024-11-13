@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Welcome👋&desc=I'm%20Junhyeok%20&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Welcome👋&desc=%20&fontSize=60)
 
              
 <!--
